@@ -101,17 +101,55 @@ name: colors
 
 ## Exploración competencial
 
-.left-column[
-- 
-]
+.pull-left[.line-space2-5[
+- Investigación Reproducible 
+- P-Hacking
+- Harking
+- Sesgo de publicación
+- Pre-registro de investigación
+- Datos abiertos
+]] 
 
-.right-column[
-
+.pull-right[
+![](img/wordwall.png)
 ]
 
 ---
 
-# Conceptos principales
+# Investigación reproducible
+
+---
+
+# P-Hacking
+
+.pull-left[.line-space2-0[
+- Alteración artificial de los valores p en el análisis de resultados
+- Duplicar los datos de forma artificial
+- 
+]]
+
+.pull-right[
+```{r echo=FALSE, out.width="70%", fig.align='center'}
+knitr::include_graphics("img/p-curve-1.png")
+```
+]
+
+
+---
+
+# Harking
+
+---
+
+# Sesgo de publicación
+
+---
+
+# Pre-registro de investigación
+
+---
+
+# Datos abiertos
 
 ---
 # Práctica Supervisada
