@@ -168,35 +168,54 @@ countdown::countdown(minutes = 8,
 ```
 
 ---
-layout: false
 
-## Square image
+<h1 align="center"><b>Reproducibilidad vs Replicabilidad</b></h1>
+<p align="center"><img src="img/reproducible-definition-grid.png" height="450px"></p>
 
-<center><img src="https://octodex.github.com/images/labtocat.png" height="400px" /></center>
+---
+# ¿Qué significa reproducibilidad?
 
-.footnote[GitHub Octocat]
+<center><img src="img/cloud_ideas.png" height="400px"></center>
 
 ---
 
-### Wide image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-.footnote[Wide images scale to 100% slide width]
+<p align ="center"><img src="img/paper_1.png"></p>
 
 ---
 
-## Two images
-
-.pull-left[
-![](https://octodex.github.com/images/motherhubbertocat.png)
-]
-
-.pull-right[
-![](https://octodex.github.com/images/dinotocat.png)
-]
+<p align ="middle"><img src="img/paper_2.png" height="600px"></p>
 
 ---
+# Goodman,2016
+<br>
+<br>
+<p><img src="img/paper_3.png"></p>
+<br>
+<h5 align="rigth"><a href="https://stm.sciencemag.org/content/8/341/341ps12"><b>Más información click aquí 🖱</b></a></h5>
+
+---
+# Requerimientos para una investigación reproducible
+
+<center><img src="img/paper_4.png" height="350px"></center>
+
+---
+# Checklist para garantizar la reproducibilidad
+
+<center><img src="img/paper_5.jpg" height="450px"></center>
+
+---
+<br>
+<br> 
+<br>
+<center><img src="img/reproducibilidad_ambiente.png" height="350px"></center>
+
+---
+# Herramientas
+
+<center><img src="img/herramientas.svg" height="400px"></center>
+
+---
+
 class: center, middle
 
 # Thanks!
